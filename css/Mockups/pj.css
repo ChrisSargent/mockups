@@ -1,0 +1,81 @@
+/*--- Lolight Colours ---*/
+a {
+    color: #51a2b3;
+}
+
+.pj-logo-lolight {
+    color: #333;
+}
+
+.pj-btn {
+    border-color: #51a2b3;
+}
+
+.pj-btn-submit {
+    border-color: #51a2b3;
+    background-color: #51a2b3;
+}
+
+.pj-btn:hover,
+.pj-btn:focus,
+.pj-btn:active {
+    background-color: #51a2b3;
+}
+
+/*--- Highlight Colours ---*/
+
+.pj-logo-highlight {
+    color: #fff;
+}
+
+p a:hover,
+p a:focus,
+p a:active {
+    border-color: #61c7dd;
+    color: #61c7dd;
+}
+
+.pj-btn-submit:hover,
+.pj-btn-submit:focus,
+.pj-btn-submit:active {
+    border-color: #61c7dd;
+    background-color: #61c7dd;
+}
+
+/*--- Backgrounds ---*/
+
+#pj-intro {
+    background-image: url(../../img/pixeljus/bg-macbook.jpg);
+}
+
+#pj-services {
+    background: none;
+}
+
+#pj-portfolio {
+    background-image: url(../../img/pixeljus/bg-camera.jpg)
+}
+
+#pj-about {
+    background: none;
+}
+
+#pj-team {
+    background-image: url(../../img/pixeljus/bg-imac.jpg);
+}
+
+#pj-contact {
+    background: none;
+}
+
+/*--- Simple Logo ---*/
+
+.pj-logo {
+    display: inline-block;
+    border: 2px solid #51a2b3;
+    vertical-align: baseline;
+    margin-right: 2px;
+    width: 17px;
+    height: 17px;
+    line-height: 14px;
+}

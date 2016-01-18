@@ -1,0 +1,63 @@
+/*--- Lolight Colours ---*/
+
+a {
+    color: #68912F;
+}
+
+.pj-btn {
+    border-color: #68912F;
+}
+
+.pj-btn-submit {
+    border-color: #68912F;
+    background-color: #68912F;
+}
+
+.pj-btn:hover,
+.pj-btn:focus,
+.pj-btn:active {
+    background-color: #68912F;
+}
+
+.pj-logo-lolight {
+    color: #999;
+    font-weight: 700;
+}
+
+/*--- Highlight Colours ---*/
+
+.pj-logo-highlight {
+    color: #93cd43;
+}
+
+p a:hover,
+p a:focus,
+p a:active {
+    border-color: #93cd43;
+    color: #93cd43;
+}
+
+.pj-btn-submit:hover,
+.pj-btn-submit:focus,
+.pj-btn-submit:active {
+    border-color: #93cd43;
+    background-color: #93cd43;
+}
+
+/*--- Backgrounds ---*/
+
+#pj-intro {
+    background-image: url(/img/panic/bg-panic.jpg);
+}
+
+#pj-services {
+    background: none;
+}
+
+#pj-about {
+    background-image: url(/img/panic/bg-panic-truck.jpg);
+}
+
+#pj-contact {
+    background: none;
+}
